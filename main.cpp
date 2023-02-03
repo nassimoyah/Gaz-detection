@@ -16,5 +16,6 @@ void loop() {
   else {
     Serial.println("no gaz detected");
   }
-  delay(1000);
+  delay(2000); 
 }
+
